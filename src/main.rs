@@ -1,4 +1,3 @@
-use pappocrab::generator::Puzzle;
 
 fn main() {
     println!("Hello, world!");
